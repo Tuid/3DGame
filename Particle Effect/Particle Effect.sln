@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Effect", "Assembly-CSharp-firstpass.csproj", "{BC8EF8AE-2F37-8A63-54B4-601F3E6E15C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Effect", "Assembly-CSharp.csproj", "{689F2E3A-BBD2-3E84-F5EC-6A998BF523BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Effect", "Assembly-CSharp-Editor-firstpass.csproj", "{47383EA3-43C3-EF1C-87BC-A3F4F1AE782E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8EF8AE-2F37-8A63-54B4-601F3E6E15C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8EF8AE-2F37-8A63-54B4-601F3E6E15C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8EF8AE-2F37-8A63-54B4-601F3E6E15C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8EF8AE-2F37-8A63-54B4-601F3E6E15C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689F2E3A-BBD2-3E84-F5EC-6A998BF523BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689F2E3A-BBD2-3E84-F5EC-6A998BF523BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689F2E3A-BBD2-3E84-F5EC-6A998BF523BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689F2E3A-BBD2-3E84-F5EC-6A998BF523BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47383EA3-43C3-EF1C-87BC-A3F4F1AE782E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47383EA3-43C3-EF1C-87BC-A3F4F1AE782E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47383EA3-43C3-EF1C-87BC-A3F4F1AE782E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47383EA3-43C3-EF1C-87BC-A3F4F1AE782E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
